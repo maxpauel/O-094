@@ -1,5 +1,3 @@
-bash
-
 #!/bin/bash
 
 INPUT_DIR="./Fastq"
